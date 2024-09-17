@@ -1,5 +1,5 @@
 homepage: "https://www.serenitystar.ai"
 documentation: "https://docs.serenitystar.ai"
 versions:
-  - sha: ae99c0317c762410b6de7c902d0312251410a77b
+  - sha: 1e9da830093c16496739701f1577060c58f90110
     changeNotes: Initial release.
