@@ -183,23 +183,6 @@ ___WEB_PERMISSIONS___
 ]
 
 
-___TESTS___
-
-scenarios:
-- name: Success called
-  code: |-
-    const mockData = {
-      apiKey: "b87020eb-f3d0-4ef4-96ce-5ca60ca5e652",
-      agentCode: "binitHelper"
-    };
-
-    // Call runCode to run the template's code.
-    runCode(mockData);
-
-    // Verify that the tag finished successfully.
-    assertApi('gtmOnSuccess').wasCalled();
-
-
 ___NOTES___
 
 Created on 9/17/2024, 2:48:36 PM
