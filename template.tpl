@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Serenity Chat",
-  "categories": ["CHAT"]
+  "categories": ["CHAT"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
